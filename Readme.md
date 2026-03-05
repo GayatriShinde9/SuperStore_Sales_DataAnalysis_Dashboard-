@@ -38,7 +38,7 @@ The project includes interactive dashboards such as:
 - Geographic Sales & Profit Map
 
 <img width="1039" height="586" alt="image" src="https://github.com/user-attachments/assets/89a26173-88bc-4748-a90a-2a6ee0ed43ea" />
-
+<img width="988" height="570" alt="image" src="https://github.com/user-attachments/assets/a14a9594-f7e1-4ac5-860b-3952cfd15299" />
 
 ## Conclusion
 This project demonstrates how **business intelligence and forecasting** can transform raw sales data into actionable insights. By understanding customer behavior, optimizing shipping and payment strategies, and forecasting demand, businesses can **drive growth and improve efficiency**.
