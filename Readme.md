@@ -1,4 +1,4 @@
-# Superstore Sales Analysis & Forecasting
+# Superstore Sales Data Analysis & Sales Forecasting
 
 ## Objective
 The objective of this project is to perform a detailed analysis of **Superstore sales data** using **Power BI** and generate actionable insights into sales, profit, customer behavior, and returns. Additionally, the **Power BI Forecast tool** is applied to predict future sales trends, enabling better business planning and resource allocation.
