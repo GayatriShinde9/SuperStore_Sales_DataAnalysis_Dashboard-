@@ -44,8 +44,3 @@ The project includes interactive dashboards such as:
 
 ## Conclusion
 This project demonstrates how **business intelligence and forecasting** can transform raw sales data into actionable insights. By understanding customer behavior, optimizing shipping and payment strategies, and forecasting demand, businesses can **drive growth and improve efficiency**.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SuperstoreSalesAnalysis.git
